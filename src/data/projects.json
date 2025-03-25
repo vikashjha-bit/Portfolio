@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Hotel Odisej",
+      "imageSrc": "../../Assets/Projects/image.png",
+      "description": "This is a project made to a hotel.",
+      "skills": ["html", "css", "js", "telwind"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/vikashjha-bit/Hotel-odisej"
+    },
+    {
+      "title": "VIRA",
+      "imageSrc": "../../Assets/Projects/project.png",
+      "description": "This is a project made to learn the full stack web devlopment.",
+      "skills": ["React", "telwind css", "Node", "Routing"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/vikashjha-bit/Movie-App"
+    },
+    {
+      "title": "Stock Market Analysis",
+      "imageSrc": "../../Assets/Projects/image copy.png",
+      "description": "This is a project made to learn the machine learning.",
+      "skills": ["Aiml", "matplot", "python"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]

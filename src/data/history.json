@@ -1,0 +1,19 @@
+[
+    {
+      "role": "Web Devloper",
+      "organisation": "Octanet",
+      "startDate": "Jan, 2024",
+      "endDate": "Present",
+      "experiences": ["Worked on Google Maps", "Designed the Hotel Odisej Website"],
+      "imageSrc": "../../Assets/History/image.png"
+    },
+    {
+      "role": "Web Devloper",
+      "organisation": "Codestudio",
+      "startDate": "Oct, 2023",
+      "endDate": "Nov, 2023",
+      "experiences": ["Worked on Windows 11", "Designed the control panel"],
+      "imageSrc": "../../Assets/History/image copy.png"
+    }
+  
+  ]
