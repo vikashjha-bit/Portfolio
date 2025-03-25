@@ -1,5 +1,5 @@
 import styles from "./App.module.css";
-import { About } from "./components/About/About";
+import { About } from "./Components/about/About";
 import { Contact } from "./Components/Contact/Contact";
 
 import { Experience } from "./components/Experience/Experience";

@@ -7,9 +7,6 @@ import cursorIcon from "../../../Assets/About/cursorIcon.png";
 import  serverIcon from "../../../Assets/About/serverIcon.png";
 import  images from "../../../Assets/About/images.png";
 
-
-
-
 export const About = () => {
   return (
     <section className={styles.container} id="about">
