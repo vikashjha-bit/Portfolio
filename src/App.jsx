@@ -1,4 +1,4 @@
-import styles from "./App.module.css.jsx";
+import styles from "./App.module.css";
 import { About } from "./Components/About/About.jsx";
 import { Contact } from "./Components/Contact/Contact.jsx";
 
